@@ -9,7 +9,7 @@
 ```js
 <Bio 
   name= { "Sidnei Azevedo" }
-  age = {22}
+  age = {23}
   course = { "computer science" }
 />
 ```
