@@ -24,8 +24,8 @@
 <p align="center" > 
   
  ## Profile visits :eyes: <br>
- <p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/Duxon5/count.svg" />
+ <p align="left"> 
+   <img align="center" src="https://komarev.com/ghpvc/?username=Duxon5&label=Profile%20views&color=0e75b6&style=flat" />
  </p>
 
 </p>
